@@ -1,5 +1,9 @@
 package parcial2;
 
 public class Motocicleta {
-    // TODO: Tu código va aquí
+        TipoMotocicleta tipoMotocileta; 
+        public void imprimirInformacion(){ 
+        
+        String (marca + "" + modelo + "" + año);
+        }   
 }
